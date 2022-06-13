@@ -3,7 +3,7 @@
 <ul>
 <li>When we reserves a hotel on some good holidays, there're so many fantastic rooms or facilities we want to live, but we have no time or moods (surely have money) to click the page seperately.</li>
 <p></p>
-<img src="/ImgForIntro/booking.png" width="70%" height="70%"/>
+<img src="/ImgForIntro/booking.png"/>
 
 ##### Why not take the advantage of elegant Python codes to grab the information to an excel file?
 </ul>
@@ -11,7 +11,7 @@
 
 ## OverView result
 ##### Here is the output:
-<img src="/ImgForIntro/crawler_excel.png" width="70%" height="70%"/>
+<img src="/ImgForIntro/crawler_excel.png"/>
 <hr>
 
 ### Built With
