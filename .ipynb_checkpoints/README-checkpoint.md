@@ -9,10 +9,6 @@
 </ul>
 <hr>
 
-## OverView result
-##### Here is the output:
-<img src="/ImgForIntro/crawler_excel.png"/>
-<hr>
 
 ### Built With
 
@@ -33,4 +29,9 @@
 browser=webdriver.Chrome(r"The position of chromedriver.exe", options=chrome_options)
 browser.get("Your booking url")
 ```
+<hr>
+
+## OverView result
+##### Here is the output:
+<img src="/ImgForIntro/crawler_excel.png"/>
 <hr>
