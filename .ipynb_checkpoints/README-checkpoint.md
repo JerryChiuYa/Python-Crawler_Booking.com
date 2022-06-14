@@ -10,7 +10,7 @@
 <hr>
 
 
-### Built With
+## Built With
 
 <ul>
     <li><a href="https://jupyterlab.readthedocs.io/en/stable/">Jupyterlab 3.4.3</a></li>
@@ -19,7 +19,7 @@
 </ul>
 <hr>
 
-### How to use
+## How to use
 <ol>
 <li>In the line 21, change the position of chromedriver.exe where you download.</li>
 <li>In the line 22, change the booking.com where you want to travel.</li>
